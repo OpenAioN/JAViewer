@@ -7,4 +7,4 @@
 
 源代码https://github.com/SplashCodes/JAViewer
 
-伸手党https://pan.baidu.com/s/1DLQWgsTIQS9TiacGQjNU4g
+
